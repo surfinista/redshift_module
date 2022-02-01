@@ -1,0 +1,1 @@
+This Module provides the users the functionality to query a redshift datawarehouse and perform specific actions on the retrieved data to identify specific information about patient treatments.
